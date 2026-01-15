@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+.number-1-5 {
+    background-color: #f7819c;
+    color: #000000;
+    font-family: Verdana, "DejaVu Sans", sans-serif
+}
+
+#number-2 {
+    color: #0562f7;
+    font-size: 36px;
+}
+
+.number-3 {
+    font-size: 24px;
+    background-color: #f7819c;
+    color: #000000;
+    font-family: Verdana, "DejaVu Sans", sans-serif
+}
+
+#number-4 {
+    background-color: #8cff75;
+    font-size: 24px;
+    font-weight: bold;
+}
